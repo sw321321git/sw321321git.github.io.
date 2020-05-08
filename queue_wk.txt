@@ -1,0 +1,107 @@
+    0 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    1 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    2 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    3 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    4 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    5 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    6 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    7 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    8 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    9 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    10 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    11 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    12 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    13 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    14 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    15 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    16 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    17 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    18 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    19 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+
+    0 == use:x || count:2 || start:04-13-2020 09:27:53 AM || max:5 || sec:5 || repeat:0 || jb1:0 || jb2:9950 || jb3: || ID:jc000000001 || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    1 == use:x || count:4 || start:04-13-2020 09:27:54 AM || max:10 || sec:2 || repeat:0 || jb1:0 || jb2:9950 || jb3: || ID:jc000000002 || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    2 == use:x || count:0 || start:04-13-2020 09:27:56 AM || max:4 || sec:30 || repeat:0 || jb1:0 || jb2:9950 || jb3: || ID:jc000000003 || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    3 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    4 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    5 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    6 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    7 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    8 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    9 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    10 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    11 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    12 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    13 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    14 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    15 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    16 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    17 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    18 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+    19 == use: || count: || start: || max:0 || sec:0 || repeat: || jb1:0 || jb2: || jb3: || ID: || jb4: || jb5: || jb6: || jb7: || jb8: || 
+
+
+
+
+On Error GoTo ErrorHandling_jcr
+'==================================================================
+
+
+
+'==================================================================
+ErrorHandling_jcr:
+
+    Select Case Err.Number
+        Case 0:
+            'nothing
+
+        Case Else:
+        '
+        Call errornode("gray", "listLTELcallyears", Err.Number, Err.Description)
+    End Select
+
+
+
+===========
+
+
+
+                arry(1) = xseq
+                arry(2) = xcallIDhold
+                arry(3) = xdate
+                arry(4) = xtime
+                arry(5) = xtimefin
+                'timeTOTAL
+                arry(6) = caltimeTTL(xtime, xtimefin)
+                'timeTOTAL
+                arry(7) = xcaller
+                arry(8) = xphone
+                arry(9) = xorder
+                arry(10) = xsubject
+                arry(11) = xdetail
+                'Worksheets(rtcallwsheet).Cells(nm, 12) = CStr(xseq)
+                arry(12) = xtype
+                arry(13) = Now()
+                arry(14) = "A"
+                arry(15) = nm
+                arry(16) = rtcallwsheet
+
+arry(1),
+arry(2)
+arry(3)
+arry(4)
+arry(5)
+arry(6)
+arry(7)
+arry(8)
+
+arry(9)
+arry(10)
+arry(11)
+''
+arry(12)
+'0'
+arry(13)
+arry(14)
+arry(16)
+
